@@ -7,7 +7,7 @@ This repository contains code for a project focused on pain detection using Visi
 - **Christoforos Seas**
 - **Eliada Polydorou**
 
-This project was part of the **EPL445-Digital Image Processing** course at the University of Cyprus, under the supervision of **Constantinos Pattichis**.
+This project was part of the **EPL445-Digital Image Processing** course at the University of Cyprus, under the supervision of **Dr. Constantinos Pattichis**.
 
 ## Required Packages
 To run the code and analyze the dataset, you need to install the following Python packages:
