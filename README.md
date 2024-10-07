@@ -25,8 +25,8 @@ pip install matplotlib
  ## Results
 The project evaluates the performance of the pain detection model using various metrics, including accuracy, precision, recall, and F1-score. The results are saved in the `results/` folder.
 
-If you want to see the complete procedure of the project and how the results were obtained, please refer to:
-- **Presentation of the project**: [Presentation of the project.pdf](./Presentation%20of%20the%20project.pdf)
-- **Research Paper**: [Pain Detection Using Vision Transformers_Research paper.pdf](./Pain%20Detection%20Using%20Vision%20Transformers_Research%20paper.pdf)
+If you want to see the complete procedure of the project and how the results were obtained, please refer to the following:
+- The **Presentation of the project**: [Presentation of the project.pdf](./Presentation%20of%20the%20project.pdf) provides a detailed overview of the methodology.
+- The **Research Paper**: [Pain Detection Using Vision Transformers_Research paper.pdf](./Pain%20Detection%20Using%20Vision%20Transformers_Research%20paper.pdf) focuses on the research aspects and findings.
 
 
