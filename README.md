@@ -22,12 +22,10 @@ pip install matplotlib
 - The script `data_analysis.py` is used for analyzing the dataset and generating visualizations.
 - The Jupyter Notebook `pain_detection.ipynb` contains the complete workflow for training the pain detection model, including data loading, preprocessing, model definition, training, and evaluation.
 
-- ## Datasets
+ ## Datasets
 Due to the large size of the datasets, they could not be uploaded to GitHub directly. We divided our dataset so that each participant does not appear in another dataset, creating **5 distinct datasets** based on this logic. The results reported in this project are based on these 5 datasets. We used 5 different splits to provide more robust outcomes, similar to the approach used in k-fold validation.
 
-If you want to use the specific datasets with the participant splits we employed to achieve our results, you can download them from the following link:
-
-[Download Datasets](https://drive.google.com/drive/folders/1Pec50Zqr-1rYqQvElrPkM0yvcjjvkTiv?usp=sharing)
+If you want to use the specific datasets with the participant splits we employed to achieve our results, you can download them from the following link: [Download Datasets](https://drive.google.com/drive/folders/1Pec50Zqr-1rYqQvElrPkM0yvcjjvkTiv?usp=sharing)
 
  ## Results
 The project evaluates the performance of the pain detection model using various metrics, including accuracy, precision, recall, and F1-score. The results are saved in the `results/` folder.
