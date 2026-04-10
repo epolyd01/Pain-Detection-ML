@@ -1,7 +1,7 @@
 # Pain Detection Using FastVit Algorithm
 
 ## Overview
-This repository contains code for a project focused on pain detection using Vision Transformers on a subset of 2000 images from the BioVid dataset. The primary transformer encoder utilized in this project is **FastViT** from the Keras CV Attention Models repository ([Keras CV Attention Models](https://github.com/leondgarse/keras_cv_attention_models)).
+This repository contains code for a project focused on pain detection using Vision Transformers on a subset of 2000 images from the BioVid dataset (pain level 4 and no-pain). The primary transformer encoder utilized in this project is **FastViT** from the Keras CV Attention Models repository ([Keras CV Attention Models](https://github.com/leondgarse/keras_cv_attention_models)).
 
 ## Authors
 - **Christoforos Seas**
